@@ -1,4 +1,4 @@
-theory jaber_bassam_practical2
+theory propositional_exercise
 imports FOL PropLib
 begin
 
